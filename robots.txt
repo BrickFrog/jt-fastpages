@@ -1,1 +1,1 @@
-Sitemap: https://blog.justin.vc/index/sitemap.xml
+Sitemap: https://blog.justin.vc/blog/sitemap.xml
